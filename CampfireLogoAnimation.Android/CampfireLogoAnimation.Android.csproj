@@ -97,7 +97,9 @@
   <ItemGroup>
     <AndroidResource Include="Resources\mipmap-hdpi\ic_launcher_monochrome.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\mipmap-anydpi-v26\avd_anim.xml" />
+  </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\mipmap-mdpi\ic_launcher.png" />
   </ItemGroup>

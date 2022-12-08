@@ -3,8 +3,9 @@
 
   <style name="MainTheme" parent="MainTheme.Base">
 
-    <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    <item name="android:windowSplashScreenAnimatedIcon">@mipmap/avd_anim</item>
     <item name="android:windowSplashScreenBackground">#ffffff</item>
+    <item name="android:windowSplashScreenAnimationDuration">1000</item>
     
   </style>
 </resources>
