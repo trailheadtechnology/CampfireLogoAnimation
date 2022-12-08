@@ -6,6 +6,7 @@
     <item name="android:windowSplashScreenAnimatedIcon">@mipmap/avd_anim</item>
     <item name="android:windowSplashScreenBackground">#ffffff</item>
     <item name="android:windowSplashScreenAnimationDuration">1000</item>
-    
+    <item name="android:windowSplashScreenBrandingImage">@drawable/TH_Branding</item>
+  
   </style>
 </resources>
